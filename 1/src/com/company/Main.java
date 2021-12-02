@@ -18,6 +18,8 @@ public class Main {
         if (age >= 18) {
             System.out.println("Совершеннолетний");
 
+/// 123123123
+
         }
 
 
